@@ -8,7 +8,7 @@ class Teacher {
   //构造函数
   def this(age: Int, name: String) {
     this()
-    this.age = age;
-    this.name = name;
+    this.age = age
+    this.name = name
   }
 }
